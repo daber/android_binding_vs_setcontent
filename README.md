@@ -33,7 +33,7 @@ Same layout is used in both cases, note that layout is strictly constrained in h
     />
 ```
 
-Effect differes between these two
+Effect differs between these two
 
 - BindingActivity height constraint is ignored
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/120931/219353109-d4e9b874-0bfd-494c-ada1-631408f5d363.png">
